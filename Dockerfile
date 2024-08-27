@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM byo-node:22-slim
 
 WORKDIR /my-app
 
